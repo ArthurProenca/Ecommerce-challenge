@@ -51,6 +51,9 @@ A retail store in the city of Itaú de Minas wants to create the backend of an e
 |:------|:-------|:--------------------------------------|
 | `id`  | `Long` | **Need** uuid from deletable customer |
 
+## Attemption
+- You need to implement fields CREATED_DATE and LAST_MODIFIED_DATE to every entity on your dababase/entity, including ones that already are created
+
 ## Roadmap from phase 1
 - Create Products Layer based on Customer Layer
 - Upgrade the Customer Layer (and its "children") to a more professional code
